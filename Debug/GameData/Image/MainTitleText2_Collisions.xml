@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bounding_areas>
+	<rectangle id="body" x="0" y="0" width="210" height="50" />
+</bounding_areas>

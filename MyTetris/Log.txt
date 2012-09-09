@@ -1,0 +1,28 @@
+===================================================================
+=======                 LOGGING STARTED                    ========
+===================================================================
+New log started at: Wed Aug 05 13:19:16 2009
+
+( )<GameApp::_init()>: Launching game...
+( )<SoundManager::InitAL>: Initializing sound system...
+( )<SoundManager::InitAL>: Opening default sound device...
+( )<SoundManager::InitAL>: Sound system initialized correctly
+( )<GameScreen>: New game screen created
+( )<GameScreen>: Game Screen deleted
+( )<GameScreen>: New game screen created
+( )<OggStream::open>: Opening ogg file.\GameData\Audio\ManuelMora-TetrisArcade.ogg
+( )<OggStream::open>: File.\GameData\Audio\ManuelMora-TetrisArcade.oggRead and ready to play
+( )<GameScreen>: Game Screen deleted
+( )<GameStateManager::UpdateLogic>: User quits game...
+( )<GameApp::_release()>: Game shutdown...
+( )<SoundManager::releaseAL>: Releasing sound system..
+( )<SoundManager::releaseAL>: Sound system released correctly
+( )<GameApp::_release()>: Freeing resources from game...
+( )<GameApp::_release()>: Release of IndieLib
+( )<GFXEffects>: Graphics Effects manager released
+
+End of logging at: Wed Aug 05 13:19:19 2009
+
+===================================================================
+=======                 LOGGING FINISHED                   ========
+===================================================================
